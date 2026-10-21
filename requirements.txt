@@ -1,0 +1,6 @@
+streamlit>=1.40
+pymavlink>=2.4.41
+pandas>=2.2
+plotly>=5.24
+matplotlib>=3.9
+reportlab>=4.2
